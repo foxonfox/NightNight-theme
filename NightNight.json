@@ -1,0 +1,22 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.foxonfox.nightnight.theme",
+  "name": "NightNight",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.2.1",
+  "description": "An elegant theme",
+  "url": "https://cdn.jsdelivr.net/gh/foxonfox/NightNight-theme@master/dist/dist.css",
+  "download_url": "https://github.com/foxonfox/NightNight-theme/archive/1.2.1.zip",
+  "latest_url": "https://listed.to/p/diwzA6ZBgf",
+  "dock_icon": {
+      "type": "circle",
+      "background_color": "#292937",
+      "foreground_color": "#292937",
+      "border_color": "#292937"
+      },
+      "statusBar": "dark-content"
+}
